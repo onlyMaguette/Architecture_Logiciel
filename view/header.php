@@ -11,11 +11,11 @@
             <h1>ACTUALITÉS POLYTECHNICIENNES</h1>
             <nav>
                 <ul>
-                    <li><a href="index.php">Accueil</a></li>
-                    <li><a href="index.php?categorie=1">Sport</a></li>
-                    <li><a href="index.php?categorie=4">Santé</a></li>
-                    <li><a href="index.php?categorie=3">Éducation</a></li>
-                    <li><a href="index.php?categorie=2">Politique</a></li>
+                    <li><a href="home.php">Accueil</a></li>
+                    <li><a href="home.php?categorie=1">Sport</a></li>
+                    <li><a href="home.php?categorie=4">Santé</a></li>
+                    <li><a href="home.php?categorie=3">Éducation</a></li>
+                    <li><a href="home.php?categorie=2">Politique</a></li>
                 </ul>
             </nav>
         </header>
